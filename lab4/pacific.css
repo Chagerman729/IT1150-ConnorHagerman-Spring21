@@ -1,0 +1,27 @@
+
+body
+{
+    background-color: white;
+}
+h1
+{
+    background-color: #000033 ;
+    color: white;
+}
+h2
+{
+    color: #90c7e3;
+}
+a:link
+{
+background-color: #3399cc;
+}
+.companyname
+{
+color: #90c7e3;
+}
+#content
+{
+    color:#6666;
+}
+

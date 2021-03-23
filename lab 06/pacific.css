@@ -1,0 +1,97 @@
+body
+{
+    background-image: linear-gradient(to bottom, #90c7e3,#ffffff);
+    background-repeat: no-repeat;
+    font-family: arial, Helvetica, sans-serif; 
+}
+#wrapper{
+    
+    width: 80%;
+    background-color: #ffffff;
+    min-width: 960px;
+    max-width: 2048px; 
+    margin-left: auto; 
+    margin-right: auto;
+    box-shadow: 3px;
+    offset: #333333;
+}
+header h1
+{
+    text-indent: 3em;
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+    width: 960px;
+}
+h1
+{
+    color: white;
+    height: auto;
+    margin-bottom: 0;
+    background-image: url(sunset.jpg);
+    background-repeat: no-repeat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2
+{
+    
+    color: #90c7e3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 5px, #CCCCCC;
+}
+#homehero{
+    height: 300px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat; 
+    
+}
+
+main{
+background-size: 100% 100%;
+margin: 0 auto; 
+padding-top: 1px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 20px;
+display: block;
+}
+
+nav 
+{
+margin-left: auto;
+margin-right: auto;
+margin-top: 0;
+background-color: #ffffff;
+font-weight: bold;
+text-align: center;
+padding: 10px;
+}
+nav a {
+   
+    text-decoration: none;
+    color: #000033;
+    width: 960px;
+}
+.credits{
+    font-weight: bold;
+}
+.Resort
+{
+color: #5C7FA3;
+font-weight: bold;
+}
+.contact
+{
+    color:#666666;
+    font-size: 90%;
+
+}
+
+footer{
+    padding: 20px;
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 75%;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+}
